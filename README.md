@@ -4,14 +4,14 @@
 
 ### **Features**
     1. Fast compilation and rendering
-    1. Simple template tags: <% %>
-    1. Custom delimiters (e.g., use [? ?] instead of <% %>)
-    1. Sub-template includes
-    1. Ships with CLI
-    1. Both server JS and browser support
-    1. Static caching of intermediate JavaScript
-    1. Static caching of templates
-    1. Complies with the Express view system
+    2. Simple template tags: <% %>
+    3. Custom delimiters (e.g., use [? ?] instead of <% %>)
+    4. Sub-template includes
+    5. Ships with CLI
+    6. Both server JS and browser support
+    7. Static caching of intermediate JavaScript
+    8. Static caching of templates
+    9. Complies with the Express view system
 
 
 ### Installing EJS with NPM
